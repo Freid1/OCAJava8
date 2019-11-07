@@ -1,0 +1,4 @@
+20:44:36.005 [main] INFO  ru.test.Lymbda - Main method
+20:45:49.668 [main] INFO  ru.test.Lymbda - Main method
+20:51:17.380 [main] INFO  ru.dilmar.user.User - User was created empty!!!
+20:51:18.262 [main] INFO  ru.dilmar.user.User - User was created with login, password, email!!!
